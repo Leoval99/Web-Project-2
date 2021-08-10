@@ -19,6 +19,6 @@ main{
 }
 @media (max-width: 767px) {
     main{
-    min-height: calc(100vh - 490px);
+    min-height: calc(100vh - 520px);
     }
 }

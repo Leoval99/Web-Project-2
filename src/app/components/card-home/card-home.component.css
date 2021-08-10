@@ -1,0 +1,80 @@
+.card{
+    background-color: var(--blanco);
+    max-width: 800px;
+    height: 250px;
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    border-radius: 8px;
+}
+.card-img{
+    width: 42vw;
+    max-width: 250px;
+    height: 42vw;
+    max-height: 250px;
+    overflow: hidden;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.card-img img{
+    transition: all .7s ease;
+    width: 100%;
+}
+.card-img:hover img{
+    transform: scale(1.25);
+}
+.card-contenido{
+    display: grid;
+    grid-template-rows: auto 1fr 35px;
+    height: 250px;
+}
+.card-a{
+    color: var(--negro);
+    text-decoration: none;
+    margin: auto;
+}
+.card-titulo{
+    margin: 0;
+    padding: 9px 40px;
+}
+.card-titulo:hover{
+    text-decoration: underline;
+}
+.card-descripcion{  
+    margin: 0 30px;
+    display: flex;
+}
+.card-precio{
+    margin: 0;
+    margin-right: 30px;
+    text-align: end;
+}
+@media (max-width: 767px) {
+    .card{
+        width: 42vw;
+        max-width: 250px;
+        height: auto;
+        grid-template-columns: 1fr;
+        margin: auto;
+    }
+    .card-img{
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        border-bottom-left-radius: 0px;
+    }
+    .card-contenido{
+        height: auto;
+        grid-template-rows: auto 0px 35px;
+    }
+    .card-descripcion{
+        display: none;
+    }
+    .card-precio{
+        margin: auto;
+    }
+}
+@media (max-width: 414px) {
+    .card-titulo{
+        font-size: 18px;
+        padding: 9px 20px;
+    }
+}

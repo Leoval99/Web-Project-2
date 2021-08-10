@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CargarScriptsService } from 'src/app/cargar-scripts.service';
 
 @Component({
   selector: 'app-nav',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavComponent implements OnInit {
 
-  constructor() { }
+  constructor(private _CargarScripts:CargarScriptsService) {
+   _CargarScripts.carga(["./../../../assets/js/nav"]);
+  }
 
   ngOnInit(): void {
   }
