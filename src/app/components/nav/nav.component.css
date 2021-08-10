@@ -78,6 +78,7 @@ img{
     }
     .nav-lista-item-link{
         color: var(--blanco);
+        font-size: 19px;
     }
     .nav-lista-item-img{
         display: none;
