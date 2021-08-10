@@ -8,15 +8,20 @@
 }
 .whats-contacto{
     background-color: var(--blanco);
+    width: 190px;
     position: relative;
     bottom: 100px;
+    left: 20px;
     margin: auto;
     height: 50px;
     border: 1px solid var(--negro);
     border-radius: 10px;
+    margin-bottom: -80px;
     visibility: hidden;
+    transition: all 0.5s;
 }
 .whats-contacto-2{
+    margin-bottom: 20px;
     visibility: visible;
 }
 .whats-logo{

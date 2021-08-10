@@ -6,6 +6,8 @@
     height: 205px;
     align-items: center;
     width: 100%;
+    position: relative;
+    bottom: 0;
 }
 .footer-titulos{
     font-size: var(--h2);
@@ -70,8 +72,6 @@
         grid-template-columns: none;
         grid-template-rows: 100px 110px 150px 1fr;  
         height: 420px;
-        position: relative;
-        bottom: 0;  
     }
     .footer-titulos{
         margin: none;
