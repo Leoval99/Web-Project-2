@@ -127,8 +127,8 @@
     {
         "id": "15",
         "img": "",
-        "titulo": "Desayunos/Meriendas",
+        "titulo": "Desayunos / Meriendas",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
         "precio":["Desde $1600"]
-    }
+    }   
 ]

@@ -1,12 +1,9 @@
 <main>
     <app-title [titulo]="titulo"></app-title>
-    <div class="contenedor">
-        <app-card
+    <div>
+        <app-card  class="contenedor"
             *ngFor="let card of cards"
-
             [imagen]="card.imagen"
-            [titulo]="card.titulo"
-            [precio]="card.precio"
         ></app-card>
     </div>
 </main>
