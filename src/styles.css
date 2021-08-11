@@ -13,6 +13,19 @@ body{
     text-align: center;
     margin: auto;
 }
+/* ---------------------------------------------------------------------------------------------------------------- */
+body::-webkit-scrollbar{
+    width: 12px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: #da8bb1;    
+    border-radius: 5px;
+    border-right: 5px;
+}
+body::-webkit-scrollbar-thumb:hover{
+    background-color: #e6e6e6;
+}
+/* ---------------------------------------------------------------------------------------------------------------- */
 main{
     background-color: var(--fondo);
     min-height: calc(100vh - 305px);
