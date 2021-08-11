@@ -47,14 +47,14 @@
         "img": "",
         "titulo": "Torta Brownie Grande",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio": "$3200"
+        "precio": ["$3200"]
     },
     {
         "id": "6",
         "img": "",
         "titulo": "Torta Chocolatosa",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"$4700"
+        "precio":["$4700"]
     },
     {
         "id": "7",
@@ -83,7 +83,7 @@
         "img": "",
         "titulo": "Tarta de Ricota",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"$1100"
+        "precio":["$1100"]
     },
     {
         "id": "10",
@@ -101,34 +101,34 @@
         "img": "",
         "titulo": "Mini Torta Brownie",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"$750"
+        "precio":["$750"]
     },
     {
         "id": "12",
         "img": "",
         "titulo": "Budines",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"$350"
+        "precio":["$350"]
     },
     {
         "id": "13",
         "img": "",
         "titulo": "Alfajores x 6u",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"$700"
+        "precio":["$700"]
     },
     {
         "id": "14",
         "img": "",
         "titulo": "Chipa 15'",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"12u: $750"
+        "precio":["12u: $750"]
     },
     {
         "id": "15",
         "img": "",
         "titulo": "Desayunos/Meriendas",
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
-        "precio":"Desde $1600"
+        "precio":["Desde $1600"]
     }
 ]
