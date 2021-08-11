@@ -60,12 +60,26 @@ img{
         grid-template-rows: repeat(4, 100px);
         margin-left: -100%;
         padding-top: 100px;
-        position: relative;
-        top: -500px;
+        display: none;
         bottom: 0;
+        position: relative;
+        top: -100px;
         transition: all 1s;
         height: 100px;
         box-shadow: 0 0 30px 50px var(--transparente);
+        z-index: 1;
+    }
+    .mostrar{
+        display: grid;
+        height: calc(100vh - 100px);
+        margin-left: 0;
+        padding-top: 100px;
+        position: relative;
+        background-color: var(--negro_oscuro);
+        box-shadow: 0 0 30px 50px var(--negro_oscuro);
+    }
+    .ocultar{
+        display: none;
     }
     .nav-lista-item{
         border-bottom: 1px solid var(--blanco);
@@ -82,16 +96,6 @@ img{
     }
     .nav-lista-item-img{
         display: none;
-    }
-    .mostrar{
-        display: grid;
-        height: calc(100vh - 100px);
-        margin-left: 0;
-        padding-top: 100px;
-        position: relative;
-        top: -100px;
-        background-color: var(--negro_oscuro);
-        box-shadow: 0 0 30px 50px var(--negro_oscuro);
     }
     .img-hover{
         display: none;
