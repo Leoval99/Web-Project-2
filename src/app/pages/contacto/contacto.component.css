@@ -16,9 +16,14 @@
 .contacto-titulo{
     margin: 15px 0; 
     font-size: 22px;
+    transition: all 0.3s;
 }
 .contacto-contenido{
     margin: 15px 0;
+}
+.parrafo{
+    width: 80vw;
+    padding: 0;
 }
 .map{
     box-sizing: border-box;
@@ -27,8 +32,8 @@
     filter: hue-rotate(325deg) grayscale(10%) drop-shadow(0px 0px 2px grey) opacity(0.7);
     max-width: 900px;
 }
-@media (max-width: 767px) {
-    .contacto-contenedor{
-        width: 80vw;
+@media (max-width: 414px) {
+    .contacto-titulo{
+        font-size: 19px;
     }
 }
