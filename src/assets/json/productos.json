@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "img": "",
+        "titulo": "Cheesecake con frutos Rojos",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $650",
+            "Mediano: $2100",
+            "Grande: $2700"
+        ]
+    },
+    {
+        "id": "2",
+        "img": "",
+        "titulo": "Lemon Pie Exquisito",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Mediano: $1900",
+            "Grande: $2500"
+        ]
+    },
+    {
+        "id": "3",
+        "img": "",
+        "titulo": "Chessecake de Oreo",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $750",
+            "Mediano: $2300",
+            "Grande: $2900"
+        ]
+    },
+    {
+        "id": "4",
+        "img": "",
+        "titulo": "Torta de diseño",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $2500",
+            "Mediano: $3700",
+            "Grande: $6900"
+        ]
+    },
+    {
+        "id": "5",
+        "img": "",
+        "titulo": "Torta Brownie Grande",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio": "$3200"
+    },
+    {
+        "id": "6",
+        "img": "",
+        "titulo": "Torta Chocolatosa",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"$4700"
+    },
+    {
+        "id": "7",
+        "img": "",
+        "titulo": "Tortas Buttercream de diseño",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $2300",
+            "Mediano: $3500",
+            "Grande: $6700"
+        ]
+    },
+    {
+        "id": "8",
+        "img": "",
+        "titulo": "Drip Cake en Buttercream",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $2400",
+            "Mediano: $3600",
+            "Grande: $6800"
+        ]
+    },
+    {
+        "id": "9",
+        "img": "",
+        "titulo": "Tarta de Ricota",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"$1100"
+    },
+    {
+        "id": "10",
+        "img": "",
+        "titulo": "Chocotorta Mini",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $750",
+            "Mediano: $2100",
+            "Grande: $2900"
+        ]
+    },
+    {
+        "id": "11",
+        "img": "",
+        "titulo": "Mini Torta Brownie",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"$750"
+    },
+    {
+        "id": "12",
+        "img": "",
+        "titulo": "Budines",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"$350"
+    },
+    {
+        "id": "13",
+        "img": "",
+        "titulo": "Alfajores x 6u",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"$700"
+    },
+    {
+        "id": "14",
+        "img": "",
+        "titulo": "Chipa 15'",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"12u: $750"
+    },
+    {
+        "id": "15",
+        "img": "",
+        "titulo": "Desayunos/Meriendas",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":"Desde $1600"
+    }
+]
