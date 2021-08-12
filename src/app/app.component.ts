@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import productos from '../assets/json/productos.json'
+import productos from '../assets/json/productos.json';
 
 @Component({
   selector: 'app-root',

@@ -6,6 +6,7 @@
     margin: auto;
     margin-bottom: 30px;
     border-radius: 8px;
+    box-shadow: 0 0 8px rgba(128, 128, 128, 0.753);
 }
 .card-img{
     width: 42vw;

@@ -9,13 +9,13 @@ import productos from '../../../assets/json/productos.json'
 })
 export class CardComponent implements OnInit {
 
-  productList:{titulo:string,descripcion:String,precio:[String]}[] = productos;
+  productList:{url:any,titulo:string,descripcion:String,precio:[String]}[] = productos;
 
   constructor() { }
  
-  @Input () imagen = "../../../../assets/img/1.jpeg";
-  @Input () titulo = "titulo";
-  @Input () precio = 50000;
+  // @Input () imagen = "../../../../assets/img/1.jpeg";
+  // @Input () titulo = "titulo";
+  // @Input () precio = 50000;
 
   ngOnInit(): void {
   }
