@@ -31,7 +31,15 @@
     transition: all 0.2s;
 }
 @media (max-width: 767px) {
+    .whatsapp{
+        grid-template-columns: 250px 80px;  
+    }
+    .whats-contacto{
+        bottom: 70px;
+        visibility: hidden;
+    }
     .whats-logo{
         height: 70px;
+        bottom: 80px;
     }
 }

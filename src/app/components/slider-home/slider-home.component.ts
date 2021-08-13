@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { CargarScriptsService } from 'src/app/cargar-scripts.service';
 
 @Component({
   selector: 'app-slider-home',
@@ -8,8 +7,7 @@ import { CargarScriptsService } from 'src/app/cargar-scripts.service';
 })
 export class SliderHomeComponent implements OnInit {
 
-  constructor(private _CargarScripts:CargarScriptsService) {
-   _CargarScripts.carga(["./../../../assets/js/slider"]);
+  constructor() {
   }
 
   ngOnInit(): void {
