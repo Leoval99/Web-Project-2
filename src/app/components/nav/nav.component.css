@@ -58,21 +58,20 @@ img{
         background-color: var(--transparente);
         grid-template-columns: none;
         grid-template-rows: repeat(4, 100px);
-        margin-left: -100%;
+        margin-top: -100%;
         padding-top: 100px;
-        display: none;
         bottom: 0;
         position: relative;
         top: -100px;
-        transition: all 1s;
         height: 100px;
         box-shadow: 0 0 30px 50px var(--transparente);
         z-index: 1;
+        transition: margin-top 0.00000000001s, all 0.8s,;
     }
     .mostrar{
         display: grid;
         height: calc(100vh - 100px);
-        margin-left: 0;
+        margin-top: 0;
         padding-top: 100px;
         position: relative;
         background-color: var(--negro_oscuro);
