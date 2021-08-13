@@ -9,7 +9,7 @@ import productos from '../../../assets/json/productos.json'
 })
 export class CardComponent implements OnInit {
 
-  productList:{url:any,titulo:string,descripcion:String,precio:[String]}[] = productos;
+  productList:{img:any,titulo:string,descripcion:String,precio:[String]}[] = productos;
 
   constructor() { }
  
