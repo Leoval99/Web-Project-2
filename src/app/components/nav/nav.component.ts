@@ -9,7 +9,7 @@ import { CargarScriptsService } from 'src/app/cargar-scripts.service';
 export class NavComponent implements OnInit {
 
   constructor(private _CargarScripts:CargarScriptsService) {
-   _CargarScripts.carga(["./../../../assets/js/nav"]);
+   _CargarScripts.carga(["nav"]);
   }
 
   ngOnInit(): void {
