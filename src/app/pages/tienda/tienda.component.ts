@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-// import productos from '../../../assets/json/productos.json'
-
 @Component({
   selector: 'app-tienda',
   templateUrl: './tienda.component.html',
@@ -9,26 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TiendaComponent implements OnInit {
 
-  // productList:{img:string,titulo:string,descripcion:String,precio:[String]}[] = productos;
-
   constructor() { }
 
   titulo = "Tienda";
-
-  // cards=[
-  //   {
-  //     imagen: "../../../assets/img/1.jpeg",
-  //   },
-  //   {
-  //     imagen: "../../../assets/img/2.jpeg",
-  //   },
-  //   {
-  //     imagen: "../../../assets/img/3.jpeg",
-  //   },
-  //   {
-  //     imagen: "../../../assets/img/4.jpeg",
-  //   }
-  // ]
 
   ngOnInit(): void {
   }
