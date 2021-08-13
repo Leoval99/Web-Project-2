@@ -1,4 +1,4 @@
-<div class="card"  *ngFor="let item of productList">
+<div class="card" var="contador" *ngIf="contador < 5; then">
     <div class="card-img">
         <a href="#">
             <img src={{item.img[0]}} alt="#">
@@ -12,3 +12,4 @@
         <p class="card-precio">{{item.precio[0]}}</p>
     </div>
 </div>
+<!-- *ngFor="let item of productList" -->
