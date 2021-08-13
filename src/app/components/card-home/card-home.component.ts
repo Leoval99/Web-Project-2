@@ -12,11 +12,6 @@ export class CardHomeComponent implements OnInit {
   productList:{img:any,titulo:string,descripcion:String,precio:[String]}[] = productos;
 
   constructor() { }
- 
-  @Input () imagen = "../../../assets/img/1.jpg";
-  @Input () titulo = "titulo";
-  @Input () descripcion = "descripcion";
-  @Input () precio = 50000;
 
   ngOnInit(): void {
   }
