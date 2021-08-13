@@ -1,4 +1,9 @@
-.slider{
+
+
+
+
+/* <!-- SLIDER SOLO CON HTML y CSS --> */
+/* .slider{
   width: 100%;
   min-width: 100%;
   margin: auto;
@@ -25,18 +30,14 @@
 @keyframes cambio {
   0%{margin-left: 0;}
   15%{margin-left: 0;}
-  /* tiempo de transicion */
   20%{margin-left: -100%;}
   35%{margin-left: -100%;}
-  /* tiempo de transicion */
   40%{margin-left: -200%;}
   55%{margin-left: -200%;}
-  /* tiempo de transicion */
   60%{margin-left: -300%;}
   75%{margin-left: -300%;}
-  /* tiempo de transicion */
   80%{margin-left: -400%;}
   95%{margin-left: -400%;}
-  /* tiempo de transicion */
   100%{margin-left: -500%;}
-}
+} 
+*/
