@@ -17,6 +17,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { TiendaComponent } from './pages/tienda/tienda.component';
 import { ContactoComponent } from './pages/contacto/contacto.component';
 import { NosotrosComponent } from './pages/nosotros/nosotros.component';
+import { NotfoundComponent } from './pages/notfound/notfound.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { NosotrosComponent } from './pages/nosotros/nosotros.component';
     HomeComponent,
     TiendaComponent,
     ContactoComponent,
-    NosotrosComponent
+    NosotrosComponent,
+    NotfoundComponent
   ],
   imports: [
     BrowserModule,
