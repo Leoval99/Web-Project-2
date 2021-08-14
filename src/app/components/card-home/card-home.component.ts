@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 
-import productos from '../../../assets/json/productos.json'
+import productos from '../../../assets/json/destacados.json'
 
 @Component({
   selector: 'app-card-home',

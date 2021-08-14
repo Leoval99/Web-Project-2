@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "img": [
+            "../../assets/img/productos/chessecake-frutos-1.jpg",
+            "../../assets/img/productos/chessecake-frutos-2.jpg"
+        ],
+        "titulo": "Cheesecake con frutos Rojos",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $650",
+            "Mediano: $2100",
+            "Grande: $2700"
+        ]
+    },
+    {
+        "id": "2",
+        "img": [
+            "../../assets/img/productos/lemon-pie-1.jpg",
+            "../../assets/img/productos/lemon-pie-1.jpg"            
+        ],
+        "titulo": "Lemon Pie Exquisito",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Mediano: $1900",
+            "Grande: $2500"
+        ]
+    },
+    {
+        "id": "3",
+        "img": [
+            "../../assets/img/productos/chessecake-oreo-1.jpg",
+            "../../assets/img/productos/chessecake-oreo-2.jpg"
+        ],
+        "titulo": "Chessecake de Oreo",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $750",
+            "Mediano: $2300",
+            "Grande: $2900"
+        ]
+    },
+    {
+        "id": "4",
+        "img": [
+            "../../assets/img/productos/torta-diseño-1.jpg",
+            "../../assets/img/productos/torta-diseño-2.jpg"
+        ],
+        "titulo": "Torta de diseño",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium inventore culpa atque libero porro enim vel molestiae id, doloribus possimus in odit magnam commodi nihil, dicta illo veniam obcaecati voluptas.",
+        "precio":[
+            "Chico: $2500",
+            "Mediano: $3700",
+            "Grande: $6900"
+        ]
+    }
+]
