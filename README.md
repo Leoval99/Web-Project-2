@@ -1,3 +1,13 @@
+Pautas opcionales
+
+Animaciones con CSS
+Etiquetas semanticas
+Accesibilidad
+Llamada a un Json interno
+Muy responsive
+Sitio en Netlify
+Sition en Angular
+
 # Final
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.

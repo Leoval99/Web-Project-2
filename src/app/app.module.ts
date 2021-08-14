@@ -15,6 +15,7 @@ import { TitleComponent } from './components/title/title.component';
 import { WhatsComponent } from './components/whats/whats.component';
 import { BtnComponent } from './components/btn/btn.component';
 import { SliderHomeComponent } from './components/slider-home/slider-home.component';
+import { CardProductComponent } from './components/card-product/card-product.component';
 import { HomeComponent } from './pages/home/home.component';
 import { TiendaComponent } from './pages/tienda/tienda.component';
 import { ContactoComponent } from './pages/contacto/contacto.component';
@@ -34,6 +35,7 @@ import { ProductoComponent } from './pages/producto/producto.component';
     WhatsComponent,
     BtnComponent,
     SliderHomeComponent,
+    CardProductComponent,
     HomeComponent,
     TiendaComponent,
     ContactoComponent,

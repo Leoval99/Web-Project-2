@@ -1,0 +1,27 @@
+.contenedor{
+    background-color: var(--blanco);
+    display: grid;
+    grid-template-columns: 500px 1fr;
+    width: 80vw;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 30px;
+    min-height: calc(100vh - 430px);
+    box-shadow: 0 0 10px rgba(128, 128, 128, 0.8);
+}
+.slider{
+    height: 50vw;
+    max-width: 500px;
+    height: 50vw;
+    max-height: 500px;
+    background: chocolate;
+}
+.precios{
+    background: crimson;
+}
+.descripcion{
+    width: 100%;
+}
+p{
+    margin: 0;
+}
