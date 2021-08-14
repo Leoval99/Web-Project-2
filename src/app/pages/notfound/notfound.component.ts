@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { GatitoService } from 'src/app/gatito.service';
+
 
 @Component({
   selector: 'app-notfound',
@@ -7,9 +9,22 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NotfoundComponent implements OnInit {
 
-  constructor() { }
+  constructor(
+    private gatitoService:GatitoService
 
+  ) { }
+  datita: any;
+
+  showKittens (){
+    this.gatitoService.getKittens()
+    .subscribe((data:any)=>{
+      console.log(data);
+      //data tiene el problema scope,     arreglo  con datita
+      this.datita = data;
+    })
+  }
   ngOnInit(): void {
+    this.showKittens();
   }
 
 }
