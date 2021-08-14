@@ -20,6 +20,7 @@ import { TiendaComponent } from './pages/tienda/tienda.component';
 import { ContactoComponent } from './pages/contacto/contacto.component';
 import { NosotrosComponent } from './pages/nosotros/nosotros.component';
 import { NotfoundComponent } from './pages/notfound/notfound.component';
+import { ProductoComponent } from './pages/producto/producto.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { NotfoundComponent } from './pages/notfound/notfound.component';
     TiendaComponent,
     ContactoComponent,
     NosotrosComponent,
-    NotfoundComponent
+    NotfoundComponent,
+    ProductoComponent,
   ],
   imports: [
     BrowserModule,
